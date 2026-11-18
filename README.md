@@ -2,7 +2,7 @@
 
 [![news-image-20261117](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117?ref=5548afh3)
 [![rank](https://make.fun/badge/news-image-20261117/Dilslino/news-image-20261117-entry/rank.svg)](https://make.fun/bounty/news-image-20261117?ref=5548afh3)
-[![reward](https://make.fun/badge/news-image-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117?ref=5548afh3)
+[![reward](https://make.fun/badge/news-image-20261117/Dilslino/news-image-20261117-entry/reward.svg)](https://make.fun/bounty/news-image-20261117?ref=5548afh3)
 
 Entry for the make.fun bounty [news-image-20261117](https://make.fun/bounty/news-image-20261117?ref=5548afh3) — "Sum up 17 November's world news in one image".
 
